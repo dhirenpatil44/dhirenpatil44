@@ -13,7 +13,7 @@
 
 - 👯 I’m solved around 1000+ DSA problems on various platforms.
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/dhirenpatil44)**
+- 👨‍💻 All of my projects are available at **[My Github]([https://github.com/dhirenpatil44](https://github.com/dhirenpatil44?tab=repositories))**
 
 - 📫 How to reach me **patildhiren44@gmail.com**
 
