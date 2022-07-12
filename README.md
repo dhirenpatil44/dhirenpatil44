@@ -27,7 +27,7 @@
     
     <a href="https://www.codechef.com/users/patildhiren44" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>
     
-    <a href="https://www.interviewbit.com/profile/patildhiren44_7dacd34f7aa2" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/interviewbit.png"/> </a>
+<!--     <a href="https://www.interviewbit.com/profile/patildhiren44_7dacd34f7aa2" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/interviewbit.png"/> </a> -->
     
     <a href="https://www.codingninjas.com/codestudio/profile/4bc74510-35c5-4f49-80cd-d545e8cf84a2" target="_blank"> <img src="https://lh6.googleusercontent.com/-3ev20ozD6Hg/AAAAAAAAAAI/AAAAAAAAAAA/YaCRj5mkvJc/s55-p-k-no-ns-nd/photo.jpg"/> </a>
     
