@@ -23,16 +23,11 @@
 
 <p align="left"> 
     <a href="https://auth.geeksforgeeks.org/user/patildhiren44/practice/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/> </a>
-    <a href="https://leetcode.com/patildhiren44/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>
-    
+    <a href="https://leetcode.com/patildhiren44/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
     <a href="https://www.codechef.com/users/patildhiren44" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>
-    
-<!--     <a href="https://www.interviewbit.com/profile/patildhiren44_7dacd34f7aa2" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/interviewbit.png"/> </a> -->
-    
-    <a href="https://www.codingninjas.com/codestudio/profile/4bc74510-35c5-4f49-80cd-d545e8cf84a2" target="_blank"> <img src="https://lh6.googleusercontent.com/-3ev20ozD6Hg/AAAAAAAAAAI/AAAAAAAAAAA/YaCRj5mkvJc/s55-p-k-no-ns-nd/photo.jpg"/> </a>
-    
-    <a href="https://www.hackerrank.com/patildhiren44" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>
-    
+    <a href="https://www.interviewbit.com/profile/patildhiren44_7dacd34f7aa2" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/interviewbit.png"/> </a>
+    <a href="https://www.codingninjas.com/codestudio/profile/4bc74510-35c5-4f49-80cd-d545e8cf84a2" target="_blank"> <img src="https://lh6.googleusercontent.com/-3ev20ozD6Hg/AAAAAAAAAAI/AAAAAAAAAAA/YaCRj5mkvJc/s55-p-k-no-ns-nd/photo.jpg"/> </a>    
+    <a href="https://www.hackerrank.com/patildhiren44" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
     <a href="https://www.hackerearth.com/@dhiren8" target="_blank"> <img src="https://avatars.githubusercontent.com/u/3033794?s=50&v=4"/> </a>
 </p>
 
