@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m B. Tech computer science student and passed out in 2023. 
+- 🔭 I’m B. Tech computer science student and Graduate in 2023. 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
