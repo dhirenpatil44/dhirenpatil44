@@ -88,7 +88,7 @@
 </a>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/dhirenpatil44/jsm-28415/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
 
 
 <a href="https://github.com/dhirenpatil44?tab=followers"><img src="https://img.shields.io/github/followers/dhirenpatil44?label=Followers&style=social" alt="GitHub Badge"></a>
