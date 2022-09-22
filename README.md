@@ -86,4 +86,12 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dhirenpatil44">
 </a>
+
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/dhirenpatil44/dhirenpatil44/blob/output/github-contribution-grid-snake.gif)
+
+
+<div align="center">
+
+
 <a href="https://github.com/dhirenpatil44?tab=followers"><img src="https://img.shields.io/github/followers/dhirenpatil44?label=Followers&style=social" alt="GitHub Badge"></a>
