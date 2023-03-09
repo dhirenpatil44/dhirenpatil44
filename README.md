@@ -69,7 +69,9 @@
 <br/>
 
 
-<a href = "https://github.com/dhirenpatil44/dhirenpatil44/blob/output/github-contribution-grid-snake.gif"></a>
+![snake gif](https://github.com/dhirenpatil44/dhirenpatil44/blob/output/github-contribution-grid-snake.gif)
+
+<div align="center">
 
 <br/>
 <br/>
