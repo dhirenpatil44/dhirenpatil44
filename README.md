@@ -63,13 +63,12 @@
     <a href="https://github.com/dhirenpatil44/github-readme-stats"><img alt="Dhiren Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhirenpatil44&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/dhirenpatil44/github-readme-stats"><img alt="Dhiren Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirenpatil44&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
+![snake gif](https://github.com/hi-malik/hi-malik/blob/output/github-contribution-grid-snake.gif)
 
-<a href="https://github.com/dhirenpatil44/github-readme-activity-graph"><img alt="Dhiren Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhirenpatil44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
