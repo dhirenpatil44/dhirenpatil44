@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Dhiren</h2>
 
-<h3 align="center">I'm a passionate Android App Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
