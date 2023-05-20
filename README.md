@@ -68,7 +68,8 @@
 <br/>
 <br/>
 
-![snake gif](https://github.com/dhruvaop/dhruvaop/blob/output/github-contribution-grid-snake.gif)
+## See my Contributions
+<!-- ![snake gif](https://github.com/dhruvaop/dhruvaop/blob/output/github-contribution-grid-snake.gif) -->
 
 <br/>
 <br/>
