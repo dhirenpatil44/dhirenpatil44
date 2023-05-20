@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/dhirenpatil44/github-readme-activity-graph"><img alt="Dhiren Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhirenpatil44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![snake gif](https://github.com/dhirenpatil44/dhirenpatil44/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
 <br/>
