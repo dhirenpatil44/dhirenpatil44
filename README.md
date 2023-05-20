@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-![snake gif](https://github.com/dhirenpatil44/dhirenpatil44/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/dhruvaop/dhruvaop/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
 <br/>
