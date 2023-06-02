@@ -3,6 +3,7 @@
 <h2 align="center">Hi 👋, I'm Dhiren</h2>
 
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h4> Resume: https://drive.google.com/file/d/1bbWShsRLy7EBLh5t_BUgS0gq4X9gHdqs/view </h4>
 
 
 ## 🙋‍♂️ About Me
